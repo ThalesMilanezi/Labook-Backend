@@ -43,6 +43,12 @@ O Projeto usa a AWS para sua hospedagem.
 3. `npm run build` para gerar uma versão possível de ser deployada com 
 os arquivos transpilados para Javascript
 
+<h3>Participantes</h3>
+
+<p><a href="https://github.com/rosanarezende">Rosana Rezende</a></p>
+<p><a href="https://github.com/marinaisabels">Marina Isabel</a></p>
+<p><a href="https://github.com/ThalesMilanezi">Thales Fernando Milanezi</a></p>
+
 <h3>Contato</h3>
 <p>:man: Thales Fernando Milanezi</p>
 <p>:e-mail: milanezitf@gmail.com</p>
